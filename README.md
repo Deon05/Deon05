@@ -34,12 +34,6 @@ I'm an 18-year-old Computer Science student at IFSUL. I enjoy building practical
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlkgutomv&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
-
----
-
 ## 🔗 Quick Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-deon-98ba41405)
